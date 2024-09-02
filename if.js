@@ -17,6 +17,18 @@ else{
 }
 
 
+let ticketPrice = 400;
+
+if(ticketPrice>=500){
+    console.log('I am not going to see any movie')
+}
+
+else{
+    console.log("I will to go with you cinema Hall")
+}
+
+
+
 
 
 
