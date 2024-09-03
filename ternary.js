@@ -1,7 +1,7 @@
 // TERNARY --> three parts
 
-const age = 18;
-if(age >=18){
+const age1 = 18;
+if(age1 >=18){
     console.log('you can vote.')
 }
 else{
